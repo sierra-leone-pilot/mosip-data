@@ -24,6 +24,7 @@ zone
 daysofweek_list
 loc_hierarchy_list
 identity_schema
+ui_spec
 sync_job_def
 dynamic_field
 # Level 2
